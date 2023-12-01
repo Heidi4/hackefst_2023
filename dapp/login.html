@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduLand 0</title>
+    <link rel="stylesheet" href="assests/css/app.css">
+</head>
+<body>
+    <header>
+        <h1>EduLand 0</h1>
+        <p>Your secure connection to dApps on the Internet</p>
+    </header>
+
+    <main>
+        <section id="identity">
+            <h2>Internet Identity</h2>
+            <form id="create-identity">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <button type="submit">Create Identity</button>
+            </form>
+        </section>
+
+        <section id="login">
+            <h2>Login</h2>
+            <form id="login-form">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <button type="submit">Login</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; EduLand 2023</p>
+      </footer>
+    <script src="https://cdn.jsdelivr.net/npm/ky@latest/dist/ky.min.js"></script>
+    <script src="scripts.js"></script>
+</body>
+</html>

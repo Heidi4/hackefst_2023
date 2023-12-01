@@ -1,0 +1,13 @@
+{
+    "did": "did:example:abcdef",
+    "public_key": "0x...",
+    "service_endpoints": {
+      "authentication": "https://example.com/auth3",
+      "profile": "https://example.com/profile3"
+    },
+    "metadata": {
+      "name": "Peter Jones",
+      "email": "peterjones@example.com"
+    }
+  }
+  

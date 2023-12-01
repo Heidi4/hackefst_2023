@@ -1,0 +1,13 @@
+{
+    "did": "did:example:67890",
+    "public_key": "0x...",
+    "service_endpoints": {
+      "authentication": "https://example.com/auth2",
+      "profile": "https://example.com/profile2"
+    },
+    "metadata": {
+      "name": "Jane Doe",
+      "email": "janedoe@example.com"
+    }
+  }
+  

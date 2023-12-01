@@ -1,4 +1,6 @@
 ## EduLand: Nurturing  Knowledge Bridging Futures and Revolutionizing Learning with Web3
+
+
 Welcome to EduLand, the innovative online learning platform designed to bridge the gap between technology trends and traditional methods, focusing on both the tech-space and agriculture. Leveraging Web3 technology, specifically the Internet Computer Protocol (ICP), EduLand provides a comprehensive, interactive, and scalable online learning experience.
 
 ### Features
@@ -73,6 +75,11 @@ For inquiries, issues, or collaboration opportunities, please contact us at [eri
 ---
 
 Thank you for choosing EduLand - Empowering Learning in the Digital Age!
+
+## POINT TO NOTE 
+#### The above code is not in right order we plan to have it in the correct order the share with you the repository
+### Anyway happy coding and contribute by forking and pull requests
+
 ### contributors
 www.github.com/heidi4
 www.github.com/elijahnzeli

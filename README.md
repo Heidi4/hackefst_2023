@@ -73,3 +73,7 @@ For inquiries, issues, or collaboration opportunities, please contact us at [eri
 ---
 
 Thank you for choosing EduLand - Empowering Learning in the Digital Age!
+### contributors
+www.github.com/heidi4
+www.github.com/elijahnzeli
+wwww.github.com/vickswyn

@@ -81,6 +81,6 @@ Thank you for choosing EduLand - Empowering Learning in the Digital Age!
 ### Anyway happy coding and contribute by forking and pull requests
 
 ### contributors
-www.github.com/heidi4
-www.github.com/elijahnzeli
-wwww.github.com/vickswyn
+- www.github.com/heidi4
+- www.github.com/elijahnzeli
+- www.github.com/vickswyn
